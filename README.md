@@ -253,7 +253,7 @@ It genuinely helps a lot. 🚀
 
 *Made with PowerShell, curiosity, and way too many beeps*
 
-**[⭐ Star on GitHub]([https://github.com/divyanshukdas-cmyk/gravity-falls-terminal-music](https://github.com/divyanshukdas-cmyk/powershell-music-player.git**
+**[⭐ Star on GitHub](https://github.com/divyanshukdas-cmyk/powershell-music-player.git)**
 
 </div>
 
