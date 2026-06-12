@@ -22,6 +22,11 @@
 
 <br>
 
+> [!WARNING]
+> **Speaker & Hardware Notice:** This player uses `[console]::Beep()`, which drives audio directly through the system beeper at fixed frequencies and volumes. Prolonged use at high system volume may cause discomfort and could potentially stress older or low-quality speakers. **Lower your system volume before running the script.**
+
+<br>
+
 > Plays the **Gravity Falls theme** note-by-note inside your terminal — with live ASCII art, animated progress bar, and ANSI colours.
 > No libraries. No installs. Just PowerShell and a beeper.
 
@@ -256,4 +261,3 @@ It genuinely helps a lot. 🚀
 **[⭐ Star on GitHub](https://github.com/divyanshukdas-cmyk/powershell-music-player.git)**
 
 </div>
-
